@@ -19,3 +19,7 @@ env TREZOR_PROFILE=../trezor-t-images/t8/ ./emu.sh
 ```
 
 HWI will be able to connect to and interact with the emulator.
+
+## Block height
+
+Coins sent after testnet block 1543210.
