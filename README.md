@@ -4,7 +4,7 @@ This repo contains 14 images for the Trezor T emulator to be used for the harwar
 
 ## Usage
 
-Build the Trezor T emulator according to https://github.com/trezor/trezor-firmware/blob/master/core/docs/build.md
+Build the Trezor T emulator according to https://github.com/trezor/trezor-firmware/blob/master/core/docs/build/emulator.md
 
 To use the `n`th image, do:
 
